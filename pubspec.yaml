@@ -38,7 +38,7 @@ dependencies:
   fluttertoast: 
   location:
   google_maps_flutter:
-  pay: 
+   
 
 dev_dependencies:
   flutter_test:
