@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1070144268932",
+    "project_id": "houserent-c9f05",
+    "storage_bucket": "houserent-c9f05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070144268932:android:ce63b2863daea0622c70d1",
+        "android_client_info": {
+          "package_name": "com.example.house_rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070144268932-eghflr02orbrg4gcin881sbef5s7trma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.house_rent",
+            "certificate_hash": "41ae90f5989431a7e6ba99e3ae41884c17ecfd70"
+          }
+        },
+        {
+          "client_id": "1070144268932-g4cofigr1blono6avfupjr0h4cb9qqvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_UXdNUK48aUJ1CiA5biDffSTuKKldDMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070144268932-g4cofigr1blono6avfupjr0h4cb9qqvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
